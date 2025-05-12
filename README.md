@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-EDA-on-Food-Service-Data
-# Exploratory Data Analysis on Food Service Data
+
 
 ## Introduction
 This repository contains an Exploratory Data Analysis (EDA) project focused on food service data. The objective is to analyze operational efficiency, food waste management, and the impact of environmental and staffing conditions in a kitchen or cafeteria setting.
